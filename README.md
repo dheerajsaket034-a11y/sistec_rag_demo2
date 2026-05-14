@@ -1,1 +1,0 @@
-# sistec_rag_demo2
